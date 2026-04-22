@@ -69,3 +69,5 @@ Bu proje geliştirilmeye açıktır. Forklayabilir, hata raporlayabilir veya yen
 
 ⚠️ Önemli Hatırlatma
 Groq API ücretsiz sürümünde dakikada belirli bir sorgu limiti vardır (yaklaşık 30). Çok hızlı üst üste komut göndermek bağlantı hatalarına yol açabilir.
+
+⚠️⚠️⚠️Bu program hala geliştirme aşamasındadır. Lütfen yaşadığınız sorunları bildirin.
