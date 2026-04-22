@@ -1,0 +1,14 @@
+AppOpener
+pywhatkit
+screen-brightness-control
+comtypes
+pycaw
+pyaudio
+SpeechRecognition
+groq
+google-genai
+edge-tts
+pygame
+qtawesome
+vosk
+PyQt5
